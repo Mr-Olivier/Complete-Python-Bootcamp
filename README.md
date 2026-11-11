@@ -11,19 +11,28 @@ Welcome to the most comprehensive Python learning experience! This bootcamp is m
 ## 🎯 Learning Paths
 
 ### 📊 Data Science & Analysis
+
 - 🐼 Pandas Mastery
 - 📈 NumPy Deep Dive
 - 🔬 Advanced Data Manipulation
 
 ### 🌐 Web Development
+
 - 🍶 Flask Framework Expertise
 - 📡 REST API Development
 - 🖥️ Streamlit Interactive Apps
 
 ### 💾 Database & Backend
+
 - 🗃️ SQLite Fundamentals
 - 🔐 Database Connections
 - 📝 Advanced Logging Techniques
+
+### 🧩 Coding Interview Prep (DSA)
+
+- 🧰 Python Toolkit for LeetCode
+- 🔁 12 Problem-Solving Patterns (Two Pointers, Sliding Window, DP, Graphs...)
+- ✅ Solved & Tested Interview Questions
 
 ## 🗂️ Repository Structure
 
@@ -88,18 +97,25 @@ Complete-Python-Bootcamp/
 ├── 15-Memory Management/
 │   └── Performance Optimization
 │
-└── 16-Multithreading and Multiprocessing/
-    └── Concurrent Programming
+├── 16-Multithreading and Multiprocessing/
+│   └── Concurrent Programming
+│
+└── 17-DSA With Python/
+    ├── 🧰 Python Toolkit (Counter, deque, heapq, bisect)
+    ├── 🧩 44 Most-Asked LeetCode Problems by Pattern
+    └── 📝 Cheat Sheets & Practice Problems
 ```
 
 ## 🛠️ Prerequisites & Setup
 
 ### 💻 System Requirements
+
 - Python 3.8+
 - pip
 - Virtual Environment
 
 ### 🚀 Quick Start
+
 ```bash
 # Clone the repository
 git clone https://github.com/yourusername/Complete-Python-Bootcamp.git
@@ -159,5 +175,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 **🎉 Happy Coding! Unleash Your Python Potential! 🐍✨**
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=yourusername.Complete-Python-Bootcamp" alt="Visitors">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Mr-Olivier.Complete-Python-Bootcamp" alt="Visitors">
 </p>
