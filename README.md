@@ -30,9 +30,12 @@ Welcome to the most comprehensive Python learning experience! This bootcamp is m
 
 ### 🧩 Coding Interview Prep (DSA)
 
-- 🧰 Python Toolkit for LeetCode
-- 🔁 12 Problem-Solving Patterns (Two Pointers, Sliding Window, DP, Graphs...)
-- ✅ Solved & Tested Interview Questions
+A complete, separate DSA course in [`17-DSA With Python/`](17-DSA%20With%20Python/README.md), from introduction to interview-ready:
+
+- 📖 Why DSA exists & where it's used in real systems (maps, databases, caches, Git...)
+- 🏗️ Every data structure built from scratch: arrays, hash tables, linked lists, stacks, queues, trees, heaps, graphs, tries, union-find
+- ⚙️ Core algorithms: recursion, binary search, sorting, BFS/DFS, Dijkstra, MST, greedy, backtracking, dynamic programming, bit manipulation
+- ✅ 120+ solved & tested LeetCode problems, plus pattern cheat sheets
 
 ## 🗂️ Repository Structure
 
@@ -100,10 +103,13 @@ Complete-Python-Bootcamp/
 ├── 16-Multithreading and Multiprocessing/
 │   └── Concurrent Programming
 │
-└── 17-DSA With Python/
-    ├── 🧰 Python Toolkit (Counter, deque, heapq, bisect)
-    ├── 🧩 44 Most-Asked LeetCode Problems by Pattern
-    └── 📝 Cheat Sheets & Practice Problems
+└── 17-DSA With Python/          (separate DSA course, see its README)
+    ├── 00-Introduction/        What & why of DSA, Big-O, Python toolkit
+    ├── 01-Data Structures/     Arrays, Hashing, Linked Lists, Stacks/Queues,
+    │                           Trees, Heaps, Graphs, Tries, Union-Find
+    ├── 02-Algorithms/          Recursion, Searching, Sorting, Graph algorithms,
+    │                           Greedy, Backtracking, Dynamic Programming, Bits
+    └── 03-Interview Patterns/  44 most-asked problems, cheat sheets, practice
 ```
 
 ## 🛠️ Prerequisites & Setup
@@ -118,7 +124,7 @@ Complete-Python-Bootcamp/
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/Complete-Python-Bootcamp.git
+git clone https://github.com/Mr-Olivier/Complete-Python-Bootcamp.git
 
 # Create virtual environment
 python -m venv venv
